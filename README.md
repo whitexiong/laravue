@@ -1,9 +1,20 @@
 
+
+
 ## laravel + vueJs 后台管理系统
+
+> env 本地环境
+
+[![node](https://img.shields.io/badge/node-Ver10.22.1-blue.svg)](https://github.com/nodejs/node/tags?after=v10.22.1)
+[![python](https://img.shields.io/badge/python-Ver2.7-blue.svg)](https://www.python.org/downloads/)
+
 ![img.png](img.png)
+
+---
 
 ### 安装注意事项
 
+> ### win 系统下安和 linux 下安装是一样的
 > ### nodeJs 版本问题： v10 > 最新
 > ### node-sass 安装不上使用 `Chinese mirror`
 
@@ -13,6 +24,9 @@
 
 
 > ### 最好的办法是先在命令行下执行上面的命令再执行 npm install , 不进入 docker 环境
+
+
+> env 环境配置
 
 安装： 
 
